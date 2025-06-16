@@ -11,7 +11,7 @@ Actualmente estoy aprendiendo y reforzando mis habilidades en:
 
 - 🛠️ Git y flujos de trabajo de control de versiones  
 - ☁️ Plataformas Cloud como **Azure** y **GCP**  
-- ⚙️ Herramientas y buenas prácticas de DevOps  
+- ⚙️ Herramientas de DevOps y monitoreo
 
 Este repositorio es parte de mi camino de aprendizaje hacia la automatización y el trabajo en la nube.  
 Estaré subiendo trabajos, proyectos personales, pruebas y ejercicios que vaya desarrollando.
@@ -25,7 +25,7 @@ I'm currently learning and improving my skills in:
 
 - 🛠️ Git & version control workflows  
 - ☁️ Cloud platforms like **Azure** and **GCP**  
-- ⚙️ DevOps-related tools and best practices  
+- ⚙️ DevOps-related tools and monitoring
 
 This repository is part of my journey into cloud and automation.  
 I’ll be uploading some of my work, personal projects, experiments, and learning exercises.
