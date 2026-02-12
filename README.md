@@ -6,7 +6,7 @@
 
 ## 🇪🇸 Español
 
-¡Hola! Soy **Ingeniero en Sistemas** con experiencia en **entornos híbridos** (On-Premise y Cloud).  
+¡Hola! Soy **Ingenerio en infraestructura y nube** con experiencia en **entornos híbridos** (On-Premise y Cloud).  
 Actualmente estoy aprendiendo y reforzando mis habilidades en:
 
 - 🛠️ Git y flujos de trabajo de control de versiones  
@@ -20,7 +20,7 @@ Estaré subiendo trabajos, proyectos personales, pruebas y ejercicios que vaya d
 
 ## 🌐 English
 
-Hi there! I'm a **Systems Engineer** with experience in **hybrid environments** (On-Premise and Cloud).  
+Hi there! I'm a **Cloud Engineer** with experience in **hybrid environments** (On-Premise and Cloud).  
 I'm currently learning and improving my skills in:
 
 - 🛠️ Git & version control workflows  
